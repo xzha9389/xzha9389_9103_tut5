@@ -5,6 +5,6 @@ another one
 
 # Wow Image
 
-![The San Juan Mountains are beautiful!](/assets/san-juan-mountains.avif "San Juan Mountains")
+![The image!](/assets/test image.png "Train station")
 
 **SAN JUAN MOUNTAINS**
