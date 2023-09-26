@@ -3,9 +3,5 @@
 Make a change
 another one
 
-# Wow Image
 
-![The image!](/assets/test image.png "Train station")
-
-**SAN JUAN MOUNTAINS**
-**Quiz 8**
+##Quiz 8##
