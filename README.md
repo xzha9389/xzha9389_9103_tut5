@@ -3,8 +3,4 @@
 Make a change
 another one
 
-# Wow Image
-
-![The image!](/assets/test image.png "Train station")
-
-**SAN JUAN MOUNTAINS**
+## Week 8 Quiz##
