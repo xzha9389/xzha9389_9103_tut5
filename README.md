@@ -21,15 +21,17 @@ I want to break the image into cubes, and arrange them on separate layers within
 
 - **Coding Technique Exploration - WebGL**
 
+> [Example 1](https://openprocessing.org/sketch/2006354)
+
 ![This is Example 1_1](assets/example1_1.png)
 
 ![This is Example 1_2](assets/example1_2.png)
 
-> [This is the reference hyperlink to Example 1](https://openprocessing.org/sketch/2006354)
+> [Example 2](https://openprocessing.org/sketch/1463664)
 
 ![This is Example 2](assets/example2.png)
 
-> [This is the reference hyperlink to Example 2](https://openprocessing.org/sketch/1463664)
+
 
 
 
