@@ -31,11 +31,5 @@ I want to break the image into cubes, and arrange them on separate layers within
 
 ![This is Example 2](assets/example2.png)
 
-
-
-
-
-
-
-
+I will be using WebGL technology to achieve my design in part 1. It will help me render 3D scenes and interactive elements, allow me to manipulate cubes, and achieve effects that are dynamically placed through camera control. As the examples I found, by using the technology to perform effects such as rotating, panning, or scaling the cube while allowing my small cube with the image to transform within a large cube space.
 
