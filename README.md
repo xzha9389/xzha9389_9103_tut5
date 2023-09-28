@@ -23,7 +23,15 @@ I want to break the image into cubes, and arrange them on separate layers within
 
 ![This is Example 1_1](assets/example1_1.png)
 
-> This is the reference link to Example 1
+![This is Example 1_2](assets/example1_2.png)
+
+> [This is the reference hyperlink to Example 1](https://openprocessing.org/sketch/2006354)
+
+![This is Example 2](assets/example2.png)
+
+> [This is the reference hyperlink to Example 2](https://openprocessing.org/sketch/1463664)
+
+
 
 
 
