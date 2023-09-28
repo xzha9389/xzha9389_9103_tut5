@@ -12,4 +12,6 @@ another one
 # Week 8 Quiz #
 
 - Inspiration
+
 I Got inspiration from the movie " Inception "
+![It's my inspiration - Movie "Inception"](assets/Inspiration-Inception.jpeg)
